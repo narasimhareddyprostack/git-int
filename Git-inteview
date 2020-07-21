@@ -32,3 +32,18 @@ This is in contrast with other ways such as merge and rebase which normally appl
 
 git cherry-pick <commit-hash>
 
+Q6: Explain the advantages of Forking Workflow
+Q7: Tell me the difference between HEAD, working tree and index, in Git?
+
+Q8: Could you explain the Gitflow workflow?
+
+Q9: When should I use "git stash"?
+
+The git stash command takes your uncommitted changes (both staged and unstaged), saves them away for later use, and then reverts them from your working copy.
+
+
+Q10: How to remove a file from git without removing it from your file system?
+
+
+Q11: When do you use "git rebase" instead of "git merge"?
+
